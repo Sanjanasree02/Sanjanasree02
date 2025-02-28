@@ -1,8 +1,19 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjanasree02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<table>
+  <tr>
+    <td valign="top">
+      
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjanasree02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td valign="top">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanasree02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
 
 
 <!--
